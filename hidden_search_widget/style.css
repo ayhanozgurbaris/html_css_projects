@@ -53,6 +53,7 @@ body {
 
 .search.active .input {
     width: 200px;
+    border-radius: 0%;
 }
 
 .search.search.active .btn {
